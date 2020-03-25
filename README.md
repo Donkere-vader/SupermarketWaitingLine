@@ -6,7 +6,7 @@ This is a program that shows you how long the waiting lines are in front of the 
 [Sqlite3](https://docs.python.org/2/library/sqlite3.html0)
 
 ## TODO
-- Servers side
+- [ ] Servers side
     - [ ] Database
         - [ ] Create database structure
     
@@ -19,4 +19,3 @@ This is a program that shows you how long the waiting lines are in front of the 
         - [ ] HTML
         - [ ] CSS
         - [ ] Possibly js?
-    
